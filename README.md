@@ -11,6 +11,15 @@ VITE_API_URL=http://localhost:8080
 npm install
 npm run dev
 ```
+# Client Flow
+https://github.com/user-attachments/assets/491d5340-3f30-4b3d-b274-ca7be1b48cc1
+
+# Admin Flow
+https://github.com/user-attachments/assets/1948e358-88c4-425b-afd5-963338445980
+
+# Full Demo
+https://github.com/user-attachments/assets/b324ab39-d578-4b10-a65f-d8ee50ce15da
+
 ## Links
 Backend repo can be found [here](https://github.com/ProdunVladyslav/Hackaton_INT20_26_Task)
 
